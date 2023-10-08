@@ -1,0 +1,51 @@
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\bin\Debug\Reproducir audio.exe.config
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\bin\Debug\Reproducir audio.exe
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\bin\Debug\Reproducir audio.pdb
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\bin\Debug\Reproducir audio.xml
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.vbproj.AssemblyReference.cache
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\obj\Debug\Reproducir_audio.Form1.resources
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\obj\Debug\Reproducir_audio.Resources.resources
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.vbproj.GenerateResource.cache
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.vbproj.CoreCompileInputs.cache
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.exe
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.xml
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.pdb
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\bin\Debug\Interop.WMPLib.dll
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LAB2-00\source\repos\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.vbproj.ResolveComReference.cache
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\bin\Debug\Reproducir audio.exe.config
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\bin\Debug\Reproducir audio.exe
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\bin\Debug\Reproducir audio.pdb
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\bin\Debug\Reproducir audio.xml
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\bin\Debug\Interop.WMPLib.dll
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.vbproj.AssemblyReference.cache
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.vbproj.ResolveComReference.cache
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\obj\Debug\Reproducir_audio.Form1.resources
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\obj\Debug\Reproducir_audio.Resources.resources
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.vbproj.GenerateResource.cache
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.vbproj.CoreCompileInputs.cache
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.exe
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.xml
+C:\Users\digit\OneDrive\Escritorio\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.pdb
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\bin\Debug\Reproducir audio.exe.config
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\bin\Debug\Reproducir audio.exe
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\bin\Debug\Reproducir audio.pdb
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\bin\Debug\Reproducir audio.xml
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\bin\Debug\Interop.WMPLib.dll
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.vbproj.AssemblyReference.cache
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.vbproj.ResolveComReference.cache
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\obj\Debug\Reproducir_audio.Form1.resources
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\obj\Debug\Reproducir_audio.Resources.resources
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.vbproj.GenerateResource.cache
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.vbproj.CoreCompileInputs.cache
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.exe
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.xml
+C:\Users\digit\Desktop\Reproducir audio\Reproducir audio\obj\Debug\Reproducir audio.pdb
